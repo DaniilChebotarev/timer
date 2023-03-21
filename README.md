@@ -1,5 +1,5 @@
 ## Готовый проект на vercel
-timer-sigma-two.vercel.app
+http://timer-sigma-two.vercel.app
 
 
 ## Available Scripts
