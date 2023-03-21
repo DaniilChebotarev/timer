@@ -1,5 +1,5 @@
 ## Готовый проект на vercel
-https://kata-todo-flame.vercel.app/
+timer-sigma-two.vercel.app
 
 
 ## Available Scripts
